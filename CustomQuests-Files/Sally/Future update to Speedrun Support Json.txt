@@ -1,0 +1,71 @@
+This is a alternative version of "(lv-1) QUEST_SpeedrunSupport.json" with the consumible items.
+
+{
+    "questGiver": "Sally",
+    "_questName": "Speedrun Support",
+    "_questType": "REPEATABLE",
+    "_questSubType": "NONE",
+    "_questDescription": "You will receive Luci’s bow and armor focused on crit rate. It is highly recommended to use them in conjunction with the Recovery skill!",
+    "_questCompleteReturnMessage": "Completed",
+    "_questLevel": "1",
+    "_autoFinishQuest": "true",
+    "_questItemRequirements":
+    {
+        "Rock": "1"
+    },
+    "_questExperienceReward": "988289",
+    "_questCurrencyReward": "1000000",
+    "_questItemRewards":
+    [
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Sally's Magic",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Speed Booster",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Jump Booster",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Bunbag",
+            "_itemQuantity": "99"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Jadetrout Ring",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Fuguefall Pants",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Fuguefall Duster",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Meshlink Cape",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Glyphgrift Halo",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Rock",
+            "_itemQuantity": "1"
+        }
+    ]
+}

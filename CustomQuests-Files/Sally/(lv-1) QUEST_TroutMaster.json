@@ -1,0 +1,32 @@
+{
+    "questGiver": "Sally",
+    "_questName": "Trout Master Achievement",
+    "_questType": "REPEATABLE",
+    "_questSubType": "NONE",
+    "_questDescription": "You just need to buy the equipment called Fisher Overalls and Fishin Hat from the NPC Torta.",
+    "_questCompleteReturnMessage": "Completed",
+    "_questLevel": "1",
+    "_autoFinishQuest": "true",
+    "_questItemRequirements":
+    {
+        "Rock": "1"
+    },
+    "_questItemRewards":
+    [
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Big Wan",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Sugshrimp",
+            "_itemQuantity": "99"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Rock",
+            "_itemQuantity": "1"
+        }
+    ]
+}

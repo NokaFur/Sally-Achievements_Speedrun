@@ -1,0 +1,28 @@
+{
+    #Remove me to Make it Work Again#
+    "questGiver": "Sally",
+    "_questName": "Trial of the Stars Achievement",
+    "_questType": "REPEATABLE",
+    "_questSubType": "NONE",
+    "_questDescription": "You will receive a consumable item just to skip to the end of the Trial of the Stars.",
+    "_questCompleteReturnMessage": "Completed",
+    "_questLevel": "1",
+    "_autoFinishQuest": "true",
+    "_questItemRequirements":
+    {
+        "Rock": "1"
+    },
+    "_questItemRewards":
+    [
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Jump to the Stars",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Rock",
+            "_itemQuantity": "1"
+        }
+    ]
+}

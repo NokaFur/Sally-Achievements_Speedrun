@@ -1,0 +1,10 @@
+{
+    "name": "Sally - Achievements Speedrun",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "This will help you get all of Atlyss's achievements.",
+    "dependencies": [
+        "Catman232-Homebrewery-4.7.13",
+        "Yavamar-CustomQuests-1.2.1"
+    ]
+}

@@ -1,0 +1,5 @@
+Consumable items are not being used because there is still no way to use them outside the safe zone.
+
+For now, they will be saved for a possible future update that allows their use outside the safe zone.
+
+17/02/2026 ddmmyyyy

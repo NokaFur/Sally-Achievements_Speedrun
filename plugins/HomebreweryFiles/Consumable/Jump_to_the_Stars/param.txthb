@@ -1,0 +1,11 @@
+{
+  "_itemName": "Jump to the Stars",
+  "_itemDescription": "Just a short jump to reach the top of the Trial of the Stars. Please place in the quick-use slot.",
+  "_consumableObject": "blueDye",
+  "cond1name": "jump",
+  "cond1duration": 10,
+  "cond1power": 10,
+  "food": 0,
+  "cooldown": 10,
+  "_infiniteUses": true
+}

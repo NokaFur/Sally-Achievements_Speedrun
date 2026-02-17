@@ -1,0 +1,11 @@
+{
+  "_itemName": "Jump Booster",
+  "_itemDescription": "Gives you a long jump boost for 5 minutes. Please place in the quick-use slot.",
+  "_consumableObject": "blueDye",
+  "cond1name": "jump",
+  "cond1duration": 120,
+  "cond1power": 2,
+  "food": 0,
+  "cooldown": 120,
+  "_infiniteUses": true
+}

@@ -1,0 +1,127 @@
+{
+    "questGiver": "Sally",
+    "_questName": "Skill Student Achievement",
+    "_questType": "REPEATABLE",
+    "_questSubType": "NONE",
+    "_questDescription": "You just need to use all the scrolls that will appear in your consumables inventory.",
+    "_questCompleteReturnMessage": "Completed",
+    "_questLevel": "1",
+    "_autoFinishQuest": "true",
+    "_questItemRequirements":
+    {
+        "Rock": "1"
+    },
+    "_questItemRewards":
+    [
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Adrenaline)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Alacrity)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Aquos)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Crya)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Curis)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Dexterity Mastery)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Fira)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Focus Shot)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Gust)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Inner Focus)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Leg Up)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Life Tap)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Mind Mastery)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Multi Bash)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Siphon Leech)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Spire)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Spread Shot)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Strength Mastery)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Sturdy)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Talus)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Skill Scroll (Taunt)",
+            "_itemQuantity": "1"
+        },
+        {
+            "_scriptableStatModifier": "1",
+            "_scriptItem": "Rock",
+            "_itemQuantity": "1"
+        }
+    ]
+}
