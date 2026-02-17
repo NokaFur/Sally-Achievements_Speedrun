@@ -1,7 +1,7 @@
 # Sally Achievements Speedrun
 ###### By NokaFur
 
-This mod was created to help with Atlyss's achievements, especially those that are time-consuming due to RNG.
+This mod was created to help with Atlyss achievements, especially those that are time consuming due to RNG.
 
 The mod will add 4 quests that can be obtained from Sally.
 
